@@ -2,7 +2,7 @@
 
 ## What is this?
 
-A patcher that patches warspear.exe to enable multiboxing.
+A patcher that patches warspear.exe to enable multi-boxing.
 
 ## How to use it?
 
